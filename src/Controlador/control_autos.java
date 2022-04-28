@@ -117,6 +117,7 @@ public class control_autos {
                 JOptionPane.showMessageDialog(null, "Datos actualizados");
                 lista();
                 nuevo();
+                System.out.println("vaaaaaaaaa");
             } else {
                 JOptionPane.showMessageDialog(null, "Error al modificar");
             }
